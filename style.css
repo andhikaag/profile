@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-link {
+    margin-right: 30px;
+}
