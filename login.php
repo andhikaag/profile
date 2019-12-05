@@ -25,7 +25,7 @@
         <form action="ceklog.php" method="POST">
           <div class="form-group">
             <label>Username</label>
-            <input type="text" name="username" class="form-control">
+            <input type="text" name="usernamee" class="form-control">
           </div>
           <div class="form-group">
             <label>Password</label>
